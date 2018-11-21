@@ -1,2 +1,2 @@
 # css-anime
-sample code of css animation
+cssアニメーションのサンプルコード集
